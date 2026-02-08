@@ -1,0 +1,9 @@
+#+TITLE: Odin Notes
+
+This repo is just my playground to learn and try to take notes on things I learn
+in Golang. These notes are not going to be a perfect read, but are rather
+intended to be reference documents for snippets of knowledge or examples. These
+notes are just little jots I make while I learn and will include spelling
+mistakes, bad grammar, and a complete disregard for past, present, and future
+tense. So far I have been following this guide:
+[[https://zylinski.se/posts/introduction-to-odin/]] and have been loving it.
